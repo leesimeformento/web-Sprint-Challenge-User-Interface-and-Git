@@ -222,3 +222,59 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/**
+About Page
+**/
+.about {
+    border-bottom: 1px dashed black;
+    margin-bottom: 20px;
+}
+
+.about-content {
+    padding: 15px;
+}
+
+
+.about-middle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.about-middle .feature-container {
+    width: 45%;
+    border-bottom: 1px dashed black;
+    height: 400px;
+    margin-bottom: 30px;
+}
+
+.about-middle .img-container {
+    width: 100%;
+    height:50%;
+}
+
+.about-middle .img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.about-middle .features {
+    margin-top: 30px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.about-middle .features a {
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
