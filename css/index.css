@@ -274,8 +274,9 @@ About Page
     text-align: center;
     text-decoration: none;
     color: black;
-    border: 2px solid black;
     border-radius: 10px;
+    border: 2px black solid;
+}
 
 .feature-container p {
     padding 10px:
@@ -288,7 +289,6 @@ About Page
 }
 
 .features {
-    border: 2px solid black;
     position: relative; 
 }
 
@@ -299,4 +299,7 @@ footer nav a{
     text-align: center;
     width: 80px;
     
+}.last h5 {
+    text-align: left;
 }
+
