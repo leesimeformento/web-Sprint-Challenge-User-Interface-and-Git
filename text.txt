@@ -1,0 +1,28 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+HTML is a mark up Language that allows the user to create and structure elements. such as <section><p> etc. for web pages and apps.
+
+
+2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Display block is displayed online, inside the current block on the same line.
+
+Display Inline is displayed in the inside of the current block on the same line.
+
+3. What are the 4 areas of the box model?
+    
+    - 4 areas are: margin
+                    padding
+                    border
+                    content
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+
+Main axis
+
+5. Explain why git is valuable to a team of developers.
+
+GIt eliminates everything from the time wasted passing commits over a network connection to the man hours required to integrate changes in a centralized version control system
+
+You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
