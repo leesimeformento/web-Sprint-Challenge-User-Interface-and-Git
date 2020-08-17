@@ -277,20 +277,26 @@ About Page
     border: 2px solid black;
     border-radius: 10px;
 
+.feature-container p {
+    padding 10px:
+}
+
 }
 .last h5 {
-   border:2px solid blue;
    text-align: center;
-   padding-top: 30px;
+   padding-top: 50px;
 }
 
-last p {
+.features {
+    border: 2px solid black;
+    position: relative; 
+}
+
+
+
+footer nav a{
+    padding:0 0 0 50px;
+    text-align: center;
+    width: 80px;
     
-}
-
-
-footer nav {
-    border:2px solid red;
-    margin: auto;
-    width: 800px;
 }
